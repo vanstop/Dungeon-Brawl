@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://img.itch.zone/aW1nLzM4MzgzNjIucG5n/original/eiBKIV.png"> </h1>
+<h1 align="center"> <img src="https://i.imgur.com/MH5sQN3.png"> </h1>
 
 <table style="width:100%">
   <tr>
@@ -14,10 +14,9 @@
   </tr>
 </table>
 
-## 🎳 O que é Dungeon Brawl
+## 💥 O que é Dungeon Brawl
 
-Um top down shooter mobile onde você pode lançar bolas de fogo para destruir os inimigos.
-No modo multiplayer você pode batalhar um contra um com seus amigos e no modo single player jogar contra os slimes.
+Um top down shooter mobile onde você pode lançar bolas de fogo para destruir os inimigos, No modo multiplayer você pode batalhar um contra um com seus amigos e no modo single player jogar contra os slimes.
 
 ## 🎮 Controles
 
