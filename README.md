@@ -6,7 +6,7 @@
         <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4NDEzNDYuZ2lm/original/eZy80T.gif" width="100%" height="50%" />
     </td>
     <td align="center">
-        <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4NjU2MjguZ2lm/original/ugzjqP.gif" width="100%" height="50%" />
+        <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4Mzk0NjYucG5n/original/SMn60a.png" width="100%" height="50%" />
     </td>
     <td align="center">
         <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4Mzc3NjkucG5n/original/U3%2BYVW.png" width="100%" height="50%" />
@@ -17,7 +17,7 @@
 
 ## 🔥 O que é Dungeon Brawl
 
-Um top down shooter mobile onde você pode lançar bolas de fogo para destruir os inimigos, No modo multiplayer você pode batalhar um contra um com seus amigos e no modo single player jogar contra os slimes.
+Um top down shooter mobile onde você pode lançar bolas de fogo para destruir os inimigos. No modo multiplayer você pode batalhar um contra um com seus amigos e no modo single player jogar contra os slimes.
 
 ## 🎮 Controles
 
