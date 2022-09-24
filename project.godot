@@ -14,7 +14,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="DungeonBraw"
+config/name="DungeonBrawl"
 run/main_scene="res://Scenes/Menu Node2D.tscn"
 config/icon="res://Sprites/UI/Logo.png"
 
