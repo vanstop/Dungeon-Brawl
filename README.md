@@ -15,25 +15,27 @@
 </table>
 
 
-## 🔥 O que é Dungeon Brawl
+## 🔥 What is Dungeon Brawl
 
-Um top down shooter mobile onde você pode lançar bolas de fogo para destruir os inimigos. No modo multiplayer você pode batalhar um contra um com seus amigos e no modo single player jogar contra os slimes.
+A top-down Shooter, mobile in which you can throw fireballs to destroy enemies. In multiplayer mode you can battle against your friends and in single player play against slimes.
 
-## 🎮 Controles
+## 🎮 Controls
 
-Jogue utilizando o touch screen o lado esquerdo da tela para movimentar seu personagem e o controle do lado direito para mirar e atirar.
+Play using touch screen:
 
-## 🛠 Com o que foi feito
+Touch the left side of the screen to move your character and the right side to aim and shoot.
 
-Utilizando a linguagem: <a href="https://docs.godotengine.org/pt_BR/stable/tutorials/scripting/gdscript/index.html">GDScript</a>
+## 🛠 Was done using
 
-Utilizando o framework: <a href="https://godotengine.org">GODOT</a>
+The language: <a href="https://docs.godotengine.org/pt_BR/stable/tutorials/scripting/gdscript/index.html">GDScript</a>
 
-Utilizando os assets de: <a href="https://opengameart.org/users/calciumtrice">Calciumtrice</a>
+The framework: <a href="https://godotengine.org">Godot</a>
 
-Utilizando a licença: <a href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html">GNU General Public License v3.0</a>
+The assets from: <a href="https://opengameart.org/users/calciumtrice">Calciumtrice</a>
 
-## 🕹 Baixe e jogue
+The license: <a href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html">GNU General Public License v3.0</a>
+
+## 🕹 Download and play
 
 <a href="https://github.com/vanstop/Dungeon-Brawl/releases/download/Final_Release/DungeonBrawl.apk"><img src="https://i.imgur.com/PIwhEHP.png" width=150px></img></a>
 <a href="https://agirgames.itch.io/dungeon-brawl"><img src="https://i.imgur.com/m3Coa7Q.png" width=150px></img></a>
