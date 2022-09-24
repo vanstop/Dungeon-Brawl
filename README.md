@@ -3,13 +3,13 @@
 <table>
   <tr>
     <td align="center">
-        <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4NDEzNDYuZ2lm/original/eZy80T.gif" width="320" height="160" />
+        <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4NDEzNDYuZ2lm/original/eZy80T.gif" width="100%" height="160" />
     </td>
     <td align="center">
-        <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4NjU2MjguZ2lm/original/ugzjqP.gif" width="320" height="160" />
+        <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4NjU2MjguZ2lm/original/ugzjqP.gif" width="100%" height="160" />
     </td>
     <td align="center">
-        <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4Mzc3NjkucG5n/original/U3%2BYVW.png" width="320" height="160" />
+        <img src="https://img.itch.zone/aW1hZ2UvNjk1OTMxLzM4Mzc3NjkucG5n/original/U3%2BYVW.png" width="100%" height="160" />
     </td>
   </tr>
 </table>
