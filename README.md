@@ -35,5 +35,5 @@ Utilizando a licença: <a href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html"
 
 ## 🕹 Baixe e jogue
 
-<a href="https://github.com/vanstop/Dungeon-Braw/releases/download/Final_Release/Dungeon.Brawl.apk"><img src="https://i.imgur.com/PIwhEHP.png" width=150px></img></a>
+<a href="https://github.com/vanstop/Dungeon-Brawl/releases/download/Final_Release/DungeonBrawl.apk"><img src="https://i.imgur.com/PIwhEHP.png" width=150px></img></a>
 <a href="https://agirgames.itch.io/dungeon-brawl"><img src="https://i.imgur.com/m3Coa7Q.png" width=150px></img></a>
