@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/410575__yummie__game-losing-screen-background-music.ogg-9af399ca73fae172fbc1eebd44ea01a0.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Musics/410575__yummie__game-losing-screen-background-music.ogg"
+dest_files=[ "res://.import/410575__yummie__game-losing-screen-background-music.ogg-9af399ca73fae172fbc1eebd44ea01a0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

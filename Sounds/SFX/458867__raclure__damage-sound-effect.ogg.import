@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/458867__raclure__damage-sound-effect.ogg-f2cb46cc9989a4e153d8160060a98d8f.oggstr"
+
+[deps]
+
+source_file="res://Sounds/SFX/458867__raclure__damage-sound-effect.ogg"
+dest_files=[ "res://.import/458867__raclure__damage-sound-effect.ogg-f2cb46cc9989a4e153d8160060a98d8f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

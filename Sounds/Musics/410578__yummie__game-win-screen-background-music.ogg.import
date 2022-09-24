@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/410578__yummie__game-win-screen-background-music.ogg-96db259f431dc23571e8184f2096a3b7.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Musics/410578__yummie__game-win-screen-background-music.ogg"
+dest_files=[ "res://.import/410578__yummie__game-win-screen-background-music.ogg-96db259f431dc23571e8184f2096a3b7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

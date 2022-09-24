@@ -1,0 +1,36 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Scripts/Shoot KinematicBody2D.gd" type="Script" id=1]
+[ext_resource path="res://Sprites/Player/Shoot.png" type="Texture" id=2]
+[ext_resource path="res://Sprites/Shoot/Shoot2.png" type="Texture" id=3]
+[ext_resource path="res://Sprites/Shoot/Shoot3.png" type="Texture" id=4]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 2 ), ExtResource( 3 ), ExtResource( 4 ) ],
+"loop": true,
+"name": "default",
+"speed": 10.0
+} ]
+
+[sub_resource type="CapsuleShape2D" id=2]
+radius = 3.05873
+height = 2.30615
+
+[node name="Shoot KinematicBody2D" type="KinematicBody2D"]
+scale = Vector2( 2, 2 )
+collision_layer = 7
+collision_mask = 7
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+frames = SubResource( 1 )
+frame = 1
+playing = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+rotation = 1.5708
+shape = SubResource( 2 )

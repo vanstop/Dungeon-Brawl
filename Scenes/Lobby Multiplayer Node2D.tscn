@@ -1,0 +1,106 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://Scripts/Lobby Multiplayer Node2D.gd" type="Script" id=1]
+[ext_resource path="res://Sprites/UI/Multiplayer Background.png" type="Texture" id=2]
+[ext_resource path="res://Sounds/Musics/410576__yummie__game-lobby-screen-background-music.ogg" type="AudioStream" id=3]
+[ext_resource path="res://Sprites/UI/Host.png" type="Texture" id=4]
+[ext_resource path="res://Sprites/UI/Host1.png" type="Texture" id=5]
+[ext_resource path="res://Sprites/UI/Client.png" type="Texture" id=6]
+[ext_resource path="res://Sprites/UI/Client1.png" type="Texture" id=7]
+[ext_resource path="res://Sprites/UI/Voltar.png" type="Texture" id=8]
+[ext_resource path="res://Sprites/UI/Voltar1.png" type="Texture" id=9]
+[ext_resource path="res://Fonts/Menu_dynamicfont.tres" type="DynamicFont" id=10]
+
+[node name="Lobby Multiplayer Control" type="Control"]
+script = ExtResource( 1 )
+
+[node name="Menu Background Sprite" type="Sprite" parent="."]
+scale = Vector2( 0.65, 0.65 )
+texture = ExtResource( 2 )
+centered = false
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+position = Vector2( 620, 300 )
+stream = ExtResource( 3 )
+autoplay = true
+
+[node name="Host TextureButton" type="TextureButton" parent="."]
+margin_left = 975.0
+margin_top = 305.0
+margin_right = 1275.0
+margin_bottom = 405.0
+rect_scale = Vector2( 0.75, 0.75 )
+texture_normal = ExtResource( 4 )
+texture_pressed = ExtResource( 5 )
+texture_hover = ExtResource( 5 )
+
+[node name="Client TextureButton" type="TextureButton" parent="."]
+margin_left = 975.0
+margin_top = 405.0
+margin_right = 1275.0
+margin_bottom = 505.0
+rect_scale = Vector2( 0.75, 0.75 )
+texture_normal = ExtResource( 6 )
+texture_pressed = ExtResource( 7 )
+texture_hover = ExtResource( 7 )
+
+[node name="Back TextureButton" type="TextureButton" parent="."]
+margin_left = 975.0
+margin_top = 505.0
+margin_right = 1275.0
+margin_bottom = 605.0
+rect_scale = Vector2( 0.75, 0.75 )
+texture_normal = ExtResource( 8 )
+texture_pressed = ExtResource( 9 )
+texture_hover = ExtResource( 9 )
+
+[node name="Nickname LineEdit" type="LineEdit" parent="."]
+margin_left = 350.0
+margin_top = 305.0
+margin_right = 950.0
+margin_bottom = 385.0
+caret_blink = true
+caret_blink_speed = 0.5
+
+[node name="Server IP LineEdit" type="LineEdit" parent="."]
+margin_left = 350.0
+margin_top = 405.0
+margin_right = 950.0
+margin_bottom = 485.0
+caret_blink = true
+caret_blink_speed = 0.5
+
+[node name="Nickname Label" type="Label" parent="."]
+margin_left = 45.0
+margin_top = 315.0
+margin_right = 280.0
+margin_bottom = 380.0
+custom_fonts/font = ExtResource( 10 )
+text = "Apelido:"
+
+[node name="Server IP Label" type="Label" parent="."]
+margin_left = 45.0
+margin_top = 415.0
+margin_right = 325.0
+margin_bottom = 480.0
+custom_fonts/font = ExtResource( 10 )
+text = "Server IP"
+
+[node name="My IP Label" type="Label" parent="."]
+margin_left = 350.0
+margin_top = 505.0
+margin_right = 1007.0
+margin_bottom = 566.0
+grow_horizontal = 2
+grow_vertical = 2
+rect_scale = Vector2( 0.9, 0.9 )
+custom_fonts/font = ExtResource( 10 )
+text = "My IP: 192.168.255.255"
+align = 1
+valign = 1
+
+[connection signal="pressed" from="Host TextureButton" to="." method="_on_Host_TextureButton_pressed"]
+[connection signal="pressed" from="Client TextureButton" to="." method="_on_Client_TextureButton_pressed"]
+[connection signal="pressed" from="Back TextureButton" to="." method="_on_Back_TextureButton_pressed"]
+[connection signal="text_changed" from="Nickname LineEdit" to="." method="_on_Nickname_LineEdit_text_changed"]
+[connection signal="text_changed" from="Server IP LineEdit" to="." method="_on_Server_IP_LineEdit_text_changed"]

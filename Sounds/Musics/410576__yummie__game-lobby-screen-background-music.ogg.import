@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/410576__yummie__game-lobby-screen-background-music.ogg-4d73b533211277b5654abc7bff619e73.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Musics/410576__yummie__game-lobby-screen-background-music.ogg"
+dest_files=[ "res://.import/410576__yummie__game-lobby-screen-background-music.ogg-4d73b533211277b5654abc7bff619e73.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
