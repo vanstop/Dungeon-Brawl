@@ -17,7 +17,7 @@
 
 ## 🔥 What is Dungeon Brawl
 
-A top-down Shooter, mobile in which you can throw fireballs to destroy enemies. In multiplayer mode you can battle against your friends and in single player play against slimes.
+A top-down shooter, mobile in which you can throw fireballs to destroy enemies. In multiplayer mode you can battle against your friends and in single player play against slimes.
 
 ## 🎮 Controls
 
